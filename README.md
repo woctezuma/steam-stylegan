@@ -1,6 +1,6 @@
 # Steam StyleGAN
 
-The goal of this [Google Colab](https://colab.research.google.com/) notebook is to catpure the distribution of Steam banners and generate new samples with a StyleGAN.
+The goal of this [Google Colab](https://colab.research.google.com/) notebook is to catpure the distribution of Steam banners and sample with a StyleGAN.
 
 ## Usage
 
