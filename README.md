@@ -15,7 +15,7 @@ NB: You might have to edit `metrics/frechet_inception_distance.py` to retrieve t
 
 The dataset consists of 31,723 Steam banners with RGB channels and resized from 460x215 to 128x128 resolution.
 
-A StyleGAN model was trained on 3,524,000 images, with a decreasing mini-batch size, which is about 126 epochs.
+A StyleGAN model was trained on 3,524,000 images, with a decreasing mini-batch size, which is about 111 epochs.
 
 ### Generated Steam banners
 
