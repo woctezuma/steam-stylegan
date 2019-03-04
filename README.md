@@ -17,6 +17,9 @@ The dataset consists of 31,723 Steam banners with RGB channels and resized from 
 
 A StyleGAN model was trained on 3,524,000 images, with a decreasing mini-batch size, which is about 111 epochs.
 
+Caveat: training was manually stopped after roughly 1 day, using 1 Tesla K80 GPU in the cloud.
+Based on the [expected training times](https://github.com/NVlabs/stylegan#training-networks) for 1024x1024, 512x512 and 256x256 images, 9 days of computation time might be required to get the best results for 128x128 images.
+
 ### Generated Steam banners
 
 A grid of generated Steam banners:
