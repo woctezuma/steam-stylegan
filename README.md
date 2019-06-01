@@ -14,8 +14,10 @@ NB: You might have to edit `metrics/frechet_inception_distance.py` to retrieve t
 ## Results
 
 The dataset consists of 31,723 Steam banners with RGB channels and resized from 460x215 to 128x128 resolution.
+Pre-processed data can be downloaded from [Google Drive](https://drive.google.com/open?id=1CZxtfwbCmrDqIlSvi_3BTxtaLAAIRp-o).
 
 A StyleGAN model was trained on 3,524,000 images, with a decreasing mini-batch size, which is about 111 epochs.
+A checkpoint of the network can be downloaded from [Google Drive](https://drive.google.com/open?id=1BQr7lFiHkx_WFmiyqIcd1m6XAFJNZFOh).
 
 Caveat: training was manually stopped after roughly 1 day, using 1 Tesla K80 GPU in the cloud.
 Based on the [expected training times](https://github.com/NVlabs/stylegan#training-networks) for 1024x1024, 512x512 and 256x256 images, 9 days of computation time might be required to get the best results for 128x128 images.
