@@ -37,4 +37,4 @@ A grid of real Steam banners:
 ## References
 
 -   [StyleGAN](https://github.com/NVlabs/stylegan)
--   [Steam-StyleGAN](https://github.com/woctezuma/steam-stylegan)
+-   [Steam-DCGAN](https://github.com/woctezuma/google-colab)
