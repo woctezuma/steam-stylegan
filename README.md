@@ -4,7 +4,7 @@ The goal of this [Google Colab](https://colab.research.google.com/) notebook is 
 
 ## Usage
 
--   Acquire the data, e.g. as a snapshot called `128x128.zip` in [another of my repositories](https://github.com/woctezuma/google-colab/tree/master/data),
+-   Acquire the data, e.g. as a snapshot called `128x128.zip` in [another of my repositories](https://drive.google.com/open?id=1YLhdwgnhyP-eC4gHOmTsmuiUSr0XN5XJ),
 -   Follow the instructions to edit `train.py` in the [official StyleGAN Github repository](https://github.com/NVlabs/stylegan),
 -   Run `StyleGAN.ipynb` to train a StyleGAN.
 -   To resume training from a checkpoint, you will have to edit `training/training_loop.py`.
