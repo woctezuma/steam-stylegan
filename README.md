@@ -14,7 +14,7 @@ NB: You might have to edit `metrics/frechet_inception_distance.py` to retrieve t
 ## Results
 
 The dataset consists of 31,723 Steam banners with RGB channels and resized from 460x215 to 128x128 resolution.
-Pre-processed data can be downloaded from [Google Drive](https://drive.google.com/open?id=1CZxtfwbCmrDqIlSvi_3BTxtaLAAIRp-o).
+Pre-processed data, as `.tfrecords` files, can be downloaded from [Google Drive](https://drive.google.com/open?id=1CZxtfwbCmrDqIlSvi_3BTxtaLAAIRp-o).
 
 A StyleGAN model was trained on 3,524,000 images, with a decreasing mini-batch size, which is about 111 epochs.
 A checkpoint of the network can be downloaded from [Google Drive](https://drive.google.com/open?id=1BQr7lFiHkx_WFmiyqIcd1m6XAFJNZFOh).
