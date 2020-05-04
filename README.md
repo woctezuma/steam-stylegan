@@ -27,12 +27,12 @@ Based on the [expected training times](https://github.com/NVlabs/stylegan#traini
 Results obtained with different numbers of images seen during training are shown [on the Wiki](https://github.com/woctezuma/steam-stylegan/wiki).
 
 A grid of generated Steam banners after 3,524 kimg:
-![Generated Steam banners after 3,524 kimg](https://github.com/woctezuma/steam-stylegan/wiki/images_steam_stylegan/fakes003524.png)
+![Generated Steam banners after 3,524 kimg](https://github.com/woctezuma/steam-stylegan/wiki/images_steam_stylegan/fakes003524.jpg)
 
 ### Real Steam banners
 
 A grid of real Steam banners:
-![Real Steam banners](https://github.com/woctezuma/steam-stylegan/wiki/reals.png)
+![Real Steam banners](https://github.com/woctezuma/steam-stylegan/wiki/reals.jpg)
 
 ## References
 
