@@ -8,7 +8,7 @@ The goal of this [Google Colab](https://colab.research.google.com/) notebook is 
 
 -   Acquire the data, e.g. as a snapshot called `128x128.zip` in [another of my repositories](https://github.com/woctezuma/download-steam-banners-data),
 -   Follow the instructions to edit `train.py` in the [official StyleGAN Github repository](https://github.com/NVlabs/stylegan),
--   Run `StyleGAN.ipynb` to train a StyleGAN.
+-   Run [`StyleGAN.ipynb`][StyleGAN] to train a StyleGAN.
 -   To resume training from a checkpoint, you will have to edit `training/training_loop.py`.
 
 NB: You might have to edit `metrics/frechet_inception_distance.py` to retrieve the network `inception_v3_features.pkl` locally if it cannot be downloaded from Google Colab.
@@ -45,3 +45,7 @@ A grid of real Steam banners:
     -   [StyleGAN1](https://github.com/NVlabs/stylegan)
 -   DCGAN:    
     -   [Steam-DCGAN](https://github.com/woctezuma/google-colab)
+
+<!-- Definitions -->
+
+[StyleGAN]: <https://colab.research.google.com/github/woctezuma/steam-stylegan/blob/master/StyleGAN.ipynb>
